@@ -66,7 +66,7 @@
     </div>
 </template>
 <script>
-	import polygonCrop from 'PolygonCropper.umd';
+	import polygonCrop from '../../dist/PolygonCropper.umd';
 	// import polygonCrop from 'vue-polygon-cropper';
 import Vue from 'vue';
 import {BootstrapVue, IconsPlugin} from 'bootstrap-vue';
